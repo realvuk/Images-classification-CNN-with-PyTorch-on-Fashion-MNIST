@@ -1,4 +1,4 @@
-#Fashion MNIST Image Classification Project with PyTorch
+# Fashion MNIST Image Classification Project with PyTorch
 
 ## Overview
 
